@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html>
 <?php
-echo "Olá, mundo!";
+echo "Olddddá, mundo!";
 ?>
  <head>
 	<title>Meu site 2 </title>
@@ -15,7 +15,7 @@ echo "Olá, mundo!";
 
 	<header>
 	<p>Este é meu paragrafo<p>	
-		<p> TESTE </p>
+		<p> TESTE </p> 
 
   </body>
 </html>
